@@ -1,1 +1,1 @@
-# Skill-othello
+# Skill-o
